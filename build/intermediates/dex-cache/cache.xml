@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_6e5ada1d686718d9cc5f690babc2f7361d6ac248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_13908bab32bfc723e0f8a24f7a41e61a46c19511/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_5a744e94758b0408791ba2527e96cad63eefeeda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_386022cc7dfbe4e55809bed221b8301d16a214fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_faf043b0a1879e851369bf6a1e3012e743b28113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7452a487b8057097fda70b9c16f53e8df773ad97">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_51332543d4b243cd29a68aee143f7b24f8b1543e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_a4a05bedee23ef8bf63607224632d8a400b2fb46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bc94bcaa2eea844aead07311b79fa639db213d7c">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2f5901b2947600265033839adda2673718a4995d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_61482f259b3abd53f115f6148d7ef4c89d7b4641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/joan/MAESTRIA/Moviles/Proyectos Android Studio/Reto6/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_000742526438f44cf6cb23138e8ae08be04f6fb8/classes.dex" />
+    </item>
+
+</items>
