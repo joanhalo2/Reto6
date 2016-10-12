@@ -1,2 +1,2 @@
-# Reto5
-SItio para tic tac toe con bitmaps y audio
+# Reto6
+Incluye cambio de estado y guarda variables de scores
